@@ -20,6 +20,7 @@ function honorcheck (students){
     }
     return studentsScholarship
 }
+
 const students = [
     { name: "Tasha", grades: [ 80, 67, 75, 62 ] },
     { name: "Tuvok", grades: [ 90, 88, 91, 92 ] },
